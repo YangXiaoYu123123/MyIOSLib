@@ -54,12 +54,12 @@
 		95AE53B519C932E70008ED0B /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 95AE53B419C932E70008ED0B /* RootViewController.m */; };
 		95AE53B819C9343D0008ED0B /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 95AE53B719C9343D0008ED0B /* SecondViewController.m */; };
 		95AE53BB19CC06C30008ED0B /* BJSimpleData.m in Sources */ = {isa = PBXBuildFile; fileRef = 95AE53BA19CC06C30008ED0B /* BJSimpleData.m */; };
+		95EC1EED1A01334200422709 /* SubjectData.m in Sources */ = {isa = PBXBuildFile; fileRef = 95EC1EEC1A01334200422709 /* SubjectData.m */; };
 		A425989A19FE25EE00EA153C /* UIAlertView+Block.m in Sources */ = {isa = PBXBuildFile; fileRef = A425989619FE25EE00EA153C /* UIAlertView+Block.m */; };
 		A425989B19FE25EE00EA153C /* UIActionSheet+Blocks.m in Sources */ = {isa = PBXBuildFile; fileRef = A425989819FE25EE00EA153C /* UIActionSheet+Blocks.m */; };
 		A49630BC19FE1C2A005314C9 /* SelectImageTools.m in Sources */ = {isa = PBXBuildFile; fileRef = A49630BB19FE1C2A005314C9 /* SelectImageTools.m */; };
 		A4AD186D1A00C6A6007CE8FA /* ConfirmImageController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A4AD186C1A00C6A6007CE8FA /* ConfirmImageController.xib */; };
 		A4AD18701A00C78C007CE8FA /* ConfirmImageController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4AD186F1A00C78C007CE8FA /* ConfirmImageController.m */; };
-		95EC1EED1A01334200422709 /* SubjectData.m in Sources */ = {isa = PBXBuildFile; fileRef = 95EC1EEC1A01334200422709 /* SubjectData.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -156,6 +156,8 @@
 		95AE53B719C9343D0008ED0B /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		95AE53B919CC06C30008ED0B /* BJSimpleData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BJSimpleData.h; sourceTree = "<group>"; };
 		95AE53BA19CC06C30008ED0B /* BJSimpleData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BJSimpleData.m; sourceTree = "<group>"; };
+		95EC1EEB1A01334200422709 /* SubjectData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubjectData.h; sourceTree = "<group>"; };
+		95EC1EEC1A01334200422709 /* SubjectData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubjectData.m; sourceTree = "<group>"; };
 		A425989619FE25EE00EA153C /* UIAlertView+Block.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+Block.m"; sourceTree = "<group>"; };
 		A425989719FE25EE00EA153C /* UIActionSheet+Blocks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIActionSheet+Blocks.h"; sourceTree = "<group>"; };
 		A425989819FE25EE00EA153C /* UIActionSheet+Blocks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIActionSheet+Blocks.m"; sourceTree = "<group>"; };
@@ -167,8 +169,6 @@
 		A4AD186C1A00C6A6007CE8FA /* ConfirmImageController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConfirmImageController.xib; sourceTree = "<group>"; };
 		A4AD186E1A00C78C007CE8FA /* ConfirmImageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConfirmImageController.h; sourceTree = "<group>"; };
 		A4AD186F1A00C78C007CE8FA /* ConfirmImageController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConfirmImageController.m; sourceTree = "<group>"; };
-		95EC1EEB1A01334200422709 /* SubjectData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubjectData.h; sourceTree = "<group>"; };
-		95EC1EEC1A01334200422709 /* SubjectData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubjectData.m; sourceTree = "<group>"; };
 		F1CF413BC49C42B81EF313CC /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

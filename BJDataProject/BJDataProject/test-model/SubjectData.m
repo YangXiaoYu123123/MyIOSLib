@@ -18,7 +18,7 @@
     self = [super init];
     if (self)
     {
-        [self loadCache];
+        //[self loadCache];
     }
     return self;
 }
